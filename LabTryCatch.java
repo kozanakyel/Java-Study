@@ -1,7 +1,3 @@
-/**
- * @author : Uğur Akyel
- * @date   : 27/03/2020
- * */
 
 public class Solution_1 {
     public static void main(String[] args){
