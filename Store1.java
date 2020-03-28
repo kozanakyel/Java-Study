@@ -1,7 +1,3 @@
- /**
- * @author: Uğur AKYEL
- * @since: 06.03.2020
- */
 
 public class Assignment01_20190808020{}
 
