@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/**
- * @author : Uğur Akyel
- * @date   : 27/03/2020
- * */
 
 public class Solution_2 {
     public static void main(String[] args){
